@@ -1,0 +1,7 @@
+.idea
+
+databases
+!databases/.gitkeep
+
+reports
+!reports/.gitkeep
